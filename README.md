@@ -1,4 +1,4 @@
-<h1 align="center">📝 Ignite Shop</h1>
+<h1 align="center">🔥 Fire Shop 👕</h1>
 
 [Next-url]: https://nextjs.org/
 [Next-image]: https://img.shields.io/badge/Next.JS-black?style=square&logo=nextdotjs&logoColor=white&labelColor=gray&label=^13.1.6
