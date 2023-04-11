@@ -30,7 +30,7 @@ _Rocketseat NEXT Fundamentals project - Add a very nice t-shirt, perhaps one mor
 
 <h2>📸 App Images</h2>
 
-[![fundamentosNextProjeto1](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img1.jpg "Home Page")](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img1.jpg "Project Demonstration")
+![fundamentosNextProjeto1](/public/imgs_samples/img1.jpg "Home Page")
 
 [![fundamentosNextProjeto2](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img2.jpg "Product page")](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img2.jpg "Project Demonstration")
 
