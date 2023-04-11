@@ -31,11 +31,7 @@ _Rocketseat NEXT Fundamentals project - Add a very nice t-shirt, perhaps one mor
 <h2>📸 App Images</h2>
 
 ![fundamentosNextProjeto1](/public/imgs_samples/img1.jpg "Home Page")
-
-[![fundamentosNextProjeto2](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img2.jpg "Product page")](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img2.jpg "Project Demonstration")
-
-[![fundamentosNextProjeto3](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img3.jpg "Checkout cart total")](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img3.jpg "Project Demonstration")
-
-[![fundamentosNextProjeto4](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img4.jpg "Stripe api")](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img4.jpg "Project Demonstration")
-
-[![fundamentosNextProjeto5](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img5.jpg "Success page")](https://github.com/rickson-simoes/04-FundamentosNEXT-Projeto-04/blob/master/public/imgs_samples/img5.jpg "Project Demonstration")
+![fundamentosNextProjeto1](/public/imgs_samples/img2.jpg "Product page")
+![fundamentosNextProjeto1](/public/imgs_samples/img3.jpg "Checkout cart total")
+![fundamentosNextProjeto1](/public/imgs_samples/img4.jpg "Stripe api")
+![fundamentosNextProjeto1](/public/imgs_samples/img5.jpg "Success page")
